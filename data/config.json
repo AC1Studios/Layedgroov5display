@@ -1,16 +1,16 @@
 {
-  "TOKEN": "NzY2MjcwMjk5ODIxNzAzMTk4.X4g61A.g4l8Z-FjFmtpQ9RwZcXYGZNkRH4",
+  "TOKEN": "discord bot token here",
 
-  "OWNER": ["699960073987817522"],
-  "GF": "339549170899746819",
-  "youtubeAPI": "AIzaSyDfoZg4Oy_zaHVD0aHxnqc-fCwzxMU4RTY",
-  "geniusLyricsAPI": "tTkPa9bxaUl7j4ERXhYtfT_Oz2XRYaQjcobt7KHoixlxcIu6kHxa3QX5n_C9K_Oq",
+  "OWNER": ["owner id here"],
+  "GF": "gf or friend id here",
+  "youtubeAPI": "yt api here",
+  "geniusLyricsAPI": "genius api key here",
 
   "PREFIX": ",",
-    "il": "https://discord.com/api/oauth2/authorize?client_id=752702640021962795&permissions=0&scope=bot",
+    "il": "bot invite link",
 
-  "elo": "799123596823101460",
-  "edo": "799135226373996544",
-    "WEATHER": "a12958b8dcd692664b6efe853236aebc"
+  "elo": "emoji id",
+  "edo": "emoji id",
+    "WEATHER": "weather api key"
 
 }
